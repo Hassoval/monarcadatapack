@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="" name="Monarcas FC Ultimate Pack" desc="Liga Inglesa + 26 jogadores 99">
+
+<PlayerData>
+
+<P id="50001" f="Moisés" s="Prime"/>
+<P id="50002" f="Ares" s="Titan"/>
+<P id="50003" f="Blaze" s="Storm"/>
+<P id="50004" f="Kai" s="Phantom"/>
+<P id="50005" f="Zane" s="Hunter"/>
+<P id="50006" f="Rex" s="Sniper"/>
+<P id="50007" f="Leo" s="Flash"/>
+<P id="50008" f="Noah" s="Vision"/>
+<P id="50009" f="Axel" s="Force"/>
+<P id="50010" f="Enzo" s="Magic"/>
+<P id="50011" f="Davi" s="Shadow"/>
+<P id="50012" f="Victor" s="Wall"/>
+<P id="50013" f="Ethan" s="Iron"/>
+<P id="50014" f="Lucas" s="Drift"/>
+<P id="50015" f="Bruno" s="Control"/>
+<P id="50016" f="Hugo" s="Power"/>
+<P id="50017" f="Mateo" s="Skill"/>
+<P id="50018" f="Raul" s="Speed"/>
+<P id="50019" f="Tiago" s="Strike"/>
+<P id="50020" f="Nico" s="Elite"/>
+<P id="50021" f="Ivan" s="Core"/>
+<P id="50022" f="Oscar" s="Brain"/>
+<P id="50023" f="Felix" s="Tech"/>
+<P id="50024" f="Andre" s="King"/>
+<P id="50025" f="Gabriel" s="God"/>
+<P id="50026" f="Max" s="Keeper"/>
+
+</PlayerData>
+
+<ClubData>
+
+<!-- IMPORTANTE: substituir um clube inglês existente -->
+<C id="100" n="Monarcas FC"/>
+
+</ClubData>
+
+</PackData>
