@@ -1,31 +1,8 @@
 {
   "PlayerData": [
-    { "ID": 50001, "Forename": "Moisés", "Surname": "Prime", "Position": "ST", "Rating": 99, "ImageURL": "" },
-    { "ID": 50002, "Forename": "Ares", "Surname": "Titan", "Position": "CF", "Rating": 99, "ImageURL": "" },
-    { "ID": 50003, "Forename": "Blaze", "Surname": "Storm", "Position": "LW", "Rating": 99, "ImageURL": "" },
-    { "ID": 50004, "Forename": "Kai", "Surname": "Phantom", "Position": "RW", "Rating": 99, "ImageURL": "" },
-    { "ID": 50005, "Forename": "Zane", "Surname": "Hunter", "Position": "CAM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50006, "Forename": "Rex", "Surname": "Sniper", "Position": "CDM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50007, "Forename": "Leo", "Surname": "Flash", "Position": "CM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50008, "Forename": "Noah", "Surname": "Vision", "Position": "CM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50009, "Forename": "Axel", "Surname": "Force", "Position": "LB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50010, "Forename": "Enzo", "Surname": "Magic", "Position": "RB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50011, "Forename": "Davi", "Surname": "Shadow", "Position": "CB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50012, "Forename": "Victor", "Surname": "Wall", "Position": "CB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50013, "Forename": "Ethan", "Surname": "Iron", "Position": "GK", "Rating": 99, "ImageURL": "" },
-    { "ID": 50014, "Forename": "Lucas", "Surname": "Drift", "Position": "CM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50015, "Forename": "Bruno", "Surname": "Control", "Position": "CM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50016, "Forename": "Hugo", "Surname": "Power", "Position": "ST", "Rating": 99, "ImageURL": "" },
-    { "ID": 50017, "Forename": "Mateo", "Surname": "Skill", "Position": "LW", "Rating": 99, "ImageURL": "" },
-    { "ID": 50018, "Forename": "Raul", "Surname": "Speed", "Position": "RW", "Rating": 99, "ImageURL": "" },
-    { "ID": 50019, "Forename": "Tiago", "Surname": "Strike", "Position": "ST", "Rating": 99, "ImageURL": "" },
-    { "ID": 50020, "Forename": "Nico", "Surname": "Elite", "Position": "CM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50021, "Forename": "Ivan", "Surname": "Core", "Position": "CDM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50022, "Forename": "Oscar", "Surname": "Brain", "Position": "CAM", "Rating": 99, "ImageURL": "" },
-    { "ID": 50023, "Forename": "Felix", "Surname": "Tech", "Position": "RB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50024, "Forename": "Andre", "Surname": "King", "Position": "CB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50025, "Forename": "Gabriel", "Surname": "God", "Position": "CB", "Rating": 99, "ImageURL": "" },
-    { "ID": 50026, "Forename": "Max", "Surname": "Keeper", "Position": "GK", "Rating": 99, "ImageURL": "" }
+    { "ID": 50001, "Forename": "Moisés", "Surname": "Prime", "Position": "ST", "ImageURL": "" },
+    { "ID": 50002, "Forename": "Ares", "Surname": "Titan", "Position": "CF", "ImageURL": "" },
+    { "ID": 50003, "Forename": "Blaze", "Surname": "Storm", "Position": "LW", "ImageURL": "" }
   ],
 
   "ClubData": [
@@ -34,21 +11,17 @@
       "Name": "Monarcas FC",
       "ShortName": "MFC",
       "ImageURL": "",
-      "LeagueID": 28,
+      "LeagueID": 1,
       "Squad": [
-        50001, 50002, 50003, 50004, 50005, 50006,
-        50007, 50008, 50009, 50010, 50011, 50012,
-        50013, 50014, 50015, 50016, 50017, 50018,
-        50019, 50020, 50021, 50022, 50023, 50024,
-        50025, 50026
+        50001, 50002, 50003
       ]
     }
   ],
 
   "LeagueData": [
     {
-      "ID": 28,
-      "Name": "English Premier League",
+      "ID": 1,
+      "Name": "England Premier League",
       "ImageURL": ""
     }
   ],
